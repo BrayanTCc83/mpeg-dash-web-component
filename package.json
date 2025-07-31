@@ -1,0 +1,25 @@
+{
+  "name": "video-dash",
+  "version": "0.5.0",
+  "description": "A web component to configurate video streaming with mpeg-dash protocol, includes an interface with a lot of controls avaibles.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mmedia1.fi-b.unam.mx/git/bryan/video-dash"
+  },
+  "keywords": [
+    "Video",
+    "Dash",
+    "DashJS",
+    "Video"
+  ],
+  "author": "Brayan Téllez Cruz",
+  "license": "ISC"
+}
