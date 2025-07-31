@@ -1,0 +1,22 @@
+{
+  "name": "pruebavideo",
+  "version": "1.0.0",
+  "description": "Ejemplo con dash.js para trabajar con videos en vía Streaming",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Brayan Téllez Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "@liveinstantly/dash-mpd-parser": "^0.5.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dash-mpd-parser": "^0.1.1",
+    "dashjs": "^4.7.4",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "xml2json": "^0.12.0"
+  }
+}

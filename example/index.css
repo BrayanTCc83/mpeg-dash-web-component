@@ -1,0 +1,50 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+    --controls-color: #9C27B0;
+    --controls-hover-color: #4c3a50;
+    --controls-timeline-color: #36383b;
+    --controls-timeline-thumb-color: #340553c2;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(61, 22, 65);
+}
+
+nav {
+    padding: 10px;
+    width: 100%;
+    background-color: rgb(110, 27, 119);
+}
+
+button {
+    font-size: 1.1em;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(110, 27, 119);
+    background-color: rgb(61, 22, 65);
+    cursor: pointer;
+}
+
+h1 {
+    color: rgb(230, 252, 255);
+}
+
+main {
+    padding: 50px 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+video-dash {
+    width: 100%;
+}
